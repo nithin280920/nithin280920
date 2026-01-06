@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nithin</h1>
+<h3 align="center">
+Senior Backend Engineer | Node.js | TypeScript | Distributed Systems
+</h3>
 
-<!--
-**nithin280920/nithin280920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building scalable, secure, and production-grade backend systems
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💼 Senior Software Engineer with **5+ years** of backend development experience
+- ⚙️ Specialized in **Node.js, TypeScript, Microservices, Event-Driven Architecture**
+- ☁️ Hands-on with **AWS & GCP** (Lambda, API Gateway, SNS/SQS, Pub/Sub, Cloud Functions)
+- 🧠 Strong understanding of **system design, scalability, and performance optimization**
+- 🔊 Built backend APIs to create & manage **AI conversational voice agents (ElevenLabs)**
+- 🎯 Actively preparing for **product-based company interviews**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- JavaScript (ES6+), TypeScript
+
+**Backend & Architecture**
+- Node.js, Express, Nest.js, REST APIs
+- Microservices, Event-driven systems
+- Kafka, Pub/Sub
+
+**Databases**
+- PostgreSQL, MySQL
+- MongoDB
+- Query optimization & indexing
+
+**Cloud & DevOps**
+- AWS (Lambda, API Gateway, SNS, SQS, EC2)
+- GCP (Cloud Functions, Pub/Sub)
+- CI/CD, GitHub Actions
+
+**Security & Auth**
+- JWT, OAuth2, RBAC
+- Secure API & token-based authentication
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: [*Nithin S*](https://www.linkedin.com/in/nithin-s-9694581b2/)
+- 📧 Email: nithin280920@gmail.com
